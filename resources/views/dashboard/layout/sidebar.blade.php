@@ -32,18 +32,6 @@
 
                 <li class="nxl-item nxl-hasmenu">
                     <a href="javascript:void(0);" class="nxl-link">
-                        <span class="nxl-micon"><i class="feather-users"></i></span>
-                        <span class="nxl-mtext">Customers</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
-                    </a>
-                    <ul class="nxl-submenu">
-                        <li class="nxl-item"><a class="nxl-link" href="customers.html">Customers</a></li>
-                        <li class="nxl-item"><a class="nxl-link" href="customers-view.html">Customers View</a></li>
-                        <li class="nxl-item"><a class="nxl-link" href="customers-create.html">Customers Create</a></li>
-                    </ul>
-                </li>
-
-                <li class="nxl-item nxl-hasmenu">
-                    <a href="javascript:void(0);" class="nxl-link">
                         <span class="nxl-micon"><i class="feather-briefcase"></i></span>
                         <span class="nxl-mtext">Projects</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
                     </a>
@@ -63,6 +51,18 @@
                         <li class="nxl-item"><a class="nxl-link" href="widgets-lists.html">Lists</a></li>
                         <li class="nxl-item"><a class="nxl-link" href="widgets-tables.html">Tables</a></li>
                         <li class="nxl-item"><a class="nxl-link" href="widgets-charts.html">Charts</a></li>
+                    </ul>
+                </li>
+
+                <li class="nxl-item nxl-hasmenu">
+                    <a href="javascript:void(0);" class="nxl-link">
+                        <span class="nxl-micon"><i class="feather-users"></i></span>
+                        <span class="nxl-mtext">Users</span><span class="nxl-arrow"><i class="feather-chevron-right"></i></span>
+                    </a>
+                    <ul class="nxl-submenu">
+                        <li class="nxl-item"><a class="nxl-link" href="customers.html">Customers</a></li>
+                        <li class="nxl-item"><a class="nxl-link" href="customers-view.html">Customers View</a></li>
+                        <li class="nxl-item"><a class="nxl-link" href="customers-create.html">Customers Create</a></li>
                     </ul>
                 </li>
 
