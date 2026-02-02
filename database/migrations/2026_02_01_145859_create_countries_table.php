@@ -15,8 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('country_code', 5)->unique();
-            $table->string('phone_code', 10)->nullable();
-            $table->tinyInteger('status')->default(1);
+            $table->string('phone_code', 20)->nullable();
             $table->timestamps();
         });
     }
